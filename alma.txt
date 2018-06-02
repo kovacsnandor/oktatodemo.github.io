@@ -2,3 +2,4 @@ finom
 egészséges
 sárga
 zöld
+kék
