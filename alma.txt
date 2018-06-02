@@ -3,3 +3,4 @@ egészséges
 sárga
 zöld
 kék
+piros
