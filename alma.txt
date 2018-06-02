@@ -4,3 +4,4 @@ sárga
 zöld
 kék
 piros
+fehér
